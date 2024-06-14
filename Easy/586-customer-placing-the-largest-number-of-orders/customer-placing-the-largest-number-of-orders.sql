@@ -6,5 +6,6 @@ order by count(*) desc
 limit 1
 )
 
+
 select customer_number 
 from cte;
